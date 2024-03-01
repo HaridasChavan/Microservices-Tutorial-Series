@@ -5,17 +5,17 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.6</version>
+		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.lcwd.config.server</groupId>
+	<groupId>com.lcwd.confing.server</groupId>
 	<artifactId>ConfigServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ConfigServer</name>
-	<description>This is configuration server</description>
+	<description>This is conifguration server</description>
 	<properties>
 		<java.version>17</java.version>
-		<spring-cloud.version>2021.0.5</spring-cloud.version>
+		<spring-cloud.version>2023.0.0</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>
